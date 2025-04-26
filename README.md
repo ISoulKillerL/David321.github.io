@@ -1,3 +1,3 @@
 <h1>Piddubnyi David</h1>
 
-<p><a hfef="/WEB/index.html">INDEX</a></p>
+<p><a hfef="/WEB/index.html" target="blank">INDEX</a></p>
